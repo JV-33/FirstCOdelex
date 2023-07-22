@@ -1,0 +1,15 @@
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/bin/Debug/net7.0/Mācības
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/bin/Debug/net7.0/Mācības.deps.json
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/bin/Debug/net7.0/Mācības.runtimeconfig.json
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/bin/Debug/net7.0/Mācības.dll
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/bin/Debug/net7.0/Mācības.pdb
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.csproj.AssemblyReference.cache
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.AssemblyInfoInputs.cache
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.AssemblyInfo.cs
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.csproj.CoreCompileInputs.cache
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.dll
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/refint/Mācības.dll
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.pdb
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/Mācības.genruntimeconfig.cache
+/Users/JV/Desktop/CodolexMD/JV-33/FirstCOdelex/Mācības/Mācības/obj/Debug/net7.0/ref/Mācības.dll

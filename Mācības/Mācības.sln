@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mācības", "Mācības\Mācības.csproj", "{12A73047-8C08-4806-AF1B-030EC0EBCCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A73047-8C08-4806-AF1B-030EC0EBCCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A73047-8C08-4806-AF1B-030EC0EBCCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A73047-8C08-4806-AF1B-030EC0EBCCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A73047-8C08-4806-AF1B-030EC0EBCCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43CA189B-BDA4-4CC9-AADB-12B9E1E9A742}
+	EndGlobalSection
+EndGlobal
