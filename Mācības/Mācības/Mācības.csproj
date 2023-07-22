@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+
     <None Update="T4Template.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>T4Template.cs</LastGenOutput>
@@ -16,6 +17,7 @@
   <ItemGroup>
     <Compile Update="T4Template.cs">
       <DependentUpon>T4Template.tt</DependentUpon>
+
     </Compile>
   </ItemGroup>
 </Project>
