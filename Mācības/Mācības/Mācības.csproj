@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Update="Template.cs">
+      <DependentUpon>DOC.cs</DependentUpon>
+    </Compile>
+    <Compile Update="DOC.cs">
+      <Generator>RazorTemplatePreprocessor</Generator>
+      <DependentUpon>DOC.cs</DependentUpon>
+      <LastGenOutput>DOC.cs</LastGenOutput>
+    </Compile>
+  </ItemGroup>
 </Project>
